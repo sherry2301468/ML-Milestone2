@@ -1,0 +1,5 @@
+,C,class_weight,max_depth,min_samples_leaf,max_features,l2_regularization,learning_rate,max_leaf_nodes
+Logistic Regression,0.0979,,,,,,,
+Decision Tree,,,6.0,195.0,,,,
+Random Forest,,,14.0,9.0,0.2,,,
+Gradient Boosting (HGB),,,,32.0,,0.2154,0.0506,52.0
